@@ -60,6 +60,7 @@ public class luyentap2 {
                     }
                     break;
                 case 3:
+                    System.out.println("Ket thuc chuong trinh");
                     System.exit(0);
                 default:
                     System.out.println("Vui long nhap lua chon tu 1-3");
@@ -68,3 +69,4 @@ public class luyentap2 {
         while (true);
     }
 }
+
